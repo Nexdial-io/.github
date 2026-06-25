@@ -78,6 +78,33 @@ We leverage a cutting-edge tech stack to guarantee sub-millisecond response time
 
 <br />
 
+## 📸 Interface Showcase
+
+<table width="100%" border="0" cellpadding="5" cellspacing="5" align="center">
+  <tr>
+    <td width="50%" align="center">
+      <strong>Core CRM Dashboard & Pipelines</strong><br />
+      <img src="./screenshots/homepage.png" alt="NexDial Homepage" width="100%" style="border-radius: 6px; border: 1px solid #E2E8F0;" />
+    </td>
+    <td width="50%" align="center">
+      <strong>Omnichannel Lead Inbox</strong><br />
+      <img src="./screenshots/CRM_Inbox.png" alt="CRM Inbox" width="100%" style="border-radius: 6px; border: 1px solid #E2E8F0;" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <strong>Real-Time Analytics Cockpit</strong><br />
+      <img src="./screenshots/CRM_Analytics.png" alt="CRM Analytics" width="100%" style="border-radius: 6px; border: 1px solid #E2E8F0;" />
+    </td>
+    <td width="50%" align="center">
+      <strong>Specialized Restaurant POS & Billing</strong><br />
+      <img src="./screenshots/Hotel_Billing.png" alt="Hotel Billing" width="100%" style="border-radius: 6px; border: 1px solid #E2E8F0;" />
+    </td>
+  </tr>
+</table>
+
+<br />
+
 ## 🔒 Enterprise-Grade Security & Infrastructure
 
 Our architecture is built for maximum reliability, compliance, and strict multi-tenancy:
