@@ -44,6 +44,23 @@
 
 <br />
 
+## 🏆 Key Recognitions & Awards
+
+<table width="100%" border="0" cellpadding="10" cellspacing="0">
+  <tr>
+    <td width="30%" align="center" valign="middle">
+      <img src="./dummy_award.png" alt="Tech Innovation Award 2024" width="200px" style="border-radius: 8px;" />
+    </td>
+    <td width="70%" valign="middle">
+      <h3>Tech Innovation Award — Excellence in Artificial Intelligence</h3>
+      <p><strong>Presented by the Global Tech Summit</strong></p>
+      <p>Recognized for outstanding innovation in applying real-time conversational AI models, semantic RAG-based knowledge lookup, and highly concurrent enterprise-grade CCOS (Contact Center Operating System) architectures.</p>
+    </td>
+  </tr>
+</table>
+
+<br />
+
 ## 🛠️ Unified Technology Stack
 
 We leverage a cutting-edge tech stack to guarantee sub-millisecond response times, absolute data isolation, and exceptional user experiences.
